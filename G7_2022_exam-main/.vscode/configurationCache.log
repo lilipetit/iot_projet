@@ -1,0 +1,1 @@
+{"buildTargets":["db-downgrade","db-migrate","db-upgrade"],"launchTargets":[],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[],"compilerArgs":[]},"fileIndex":[]}}
